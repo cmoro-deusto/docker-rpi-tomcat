@@ -37,4 +37,12 @@ sudo docker run -d -p 8080:8080 -p 8009:8009 -v /opt/tomcat/webapps:/opt/tomcat/
 ```
 Remember to change `/opt/tomcat/webapps` to the directory where your app is stored.
 
+
+# Links
+
+- [Source Repository](https://github.com/cmoro-deusto/docker-rpi-tomcat)
+- [Dockerfile](https://github.com/cmoro-deusto/docker-rpi-tomcat/blob/master/Dockerfile)
+- [DockerHub](https://registry.hub.docker.com/u/dordoka/rpi-tomcat/)
+
+
 Kudos to [Hypriot](http://blog.hypriot.com/)
